@@ -21,7 +21,7 @@ I wanted to start learning about programming which led me to follow the tutorial
 
 - HTML5
 - CSS3
-- TJAVASCRIPT
+- JAVASCRIPT
 
 ## Contact
 

@@ -23,15 +23,6 @@ I wanted to start learning about programming which led me to follow the tutorial
 - CSS3
 - TJAVASCRIPT
 
-## Setup
-
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-
-Show examples of usage:
-`put-your-code-here`
-
 ## Contact
 
 Created by [@jhosep98](https://jhosep98.github.io/Portfolio2020jdb/) - feel free to contact me!
